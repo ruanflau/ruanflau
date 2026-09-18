@@ -16,16 +16,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ruanflau&show_icons=true&theme=dark&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanflau&layout=compact&langs_count=7&theme=dark"/>
-</div>
->
-
----
-
 ### 💬 Vamos conversar?
 
 Me chama no [LinkedIn](https://br.linkedin.com/in/ruanflau) ou confira meus repositórios aqui no GitHub!
